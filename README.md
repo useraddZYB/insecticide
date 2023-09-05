@@ -1,5 +1,7 @@
 # insecticide
-查分布式服务的bug，专用insecticide（杀虫剂）；全链路监控
+全链路监控：查分布式服务的bug，专用insecticide（杀虫剂）
+
+对应web平台dashboard：https://github.com/useraddZYB/insecticide-web
 
 ```
 一，链路查看及admin控制台：  
