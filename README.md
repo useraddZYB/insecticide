@@ -25,7 +25,7 @@ https://github.com/useraddZYB/insecticide/packages/1938853
         <dependency>  
             <groupId>com.programmerartist.insecticide</groupId>  
             <artifactId>insecticide</artifactId>  
-            <version>1.0-SNAPSHOT</version>  
+            <version>1.0.1</version>  
         </dependency>
         
         
