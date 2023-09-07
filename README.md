@@ -17,6 +17,10 @@ http://....../insect/admin/login?user=&password=
 
 1, pom.xml中新建依赖：   
 
+jar包已上传到github package中：
+https://github.com/useraddZYB?tab=packages  
+https://github.com/useraddZYB/insecticide/packages/1938853
+
 <!-- insecticide -->  
         <dependency>  
             <groupId>com.programmerartist.insecticide</groupId>  
